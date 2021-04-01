@@ -1,6 +1,6 @@
 # Enron
 
-**Note:** Please use "ENRON - Exploratory Data Analysis.html" file if you having trouble opening "ENRON - Exploratory Data Analysis.ipynb" notebook.
+**Note:** Please use "ENRON - Exploratory Data Analysis.html" file if you having trouble in opening "ENRON - Exploratory Data Analysis.ipynb" notebook.
 
 Enron Email analysis
 
